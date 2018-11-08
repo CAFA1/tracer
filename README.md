@@ -1,4 +1,4 @@
-# Tracer
+# long-Tracer
 
 This package is in a bit of a complicated transition phase - it originally housed the concolic tracing helpers for angr, but those pieces of code have since been merged into angr proper.
 Now, there are still deprecated compatibility layers for this functionality, but the real purpose of this repository should be a set of tools to provide a consistent API for various dynamic trace backends.
